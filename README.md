@@ -1,5 +1,5 @@
 # test-git
 
-##Sub-title
+## Sub-title
 
-Testing git
+Testing git - just testing.
